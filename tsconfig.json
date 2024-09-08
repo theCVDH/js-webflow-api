@@ -10,8 +10,10 @@
         "declaration": true,
         "outDir": "dist",
         "rootDir": "src",
-        "baseUrl": "src"
+        "baseUrl": "src",
+        "emitDeclarationOnly": true,
     },
+    
     "include": ["src"],
     "exclude": []
 }
